@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/TomasScerbak/suite-landing-page.git]
-- Live Site URL: [https://tomasscerbak.github.io/suite-landing-page/]
+- Solution URL: [https://github.com/TomasScerbak/js-blurry-page-load.git]
+- Live Site URL: [https://tomasscerbak.github.io/js-blurry-page-load/]
 
 ### Built with
 
