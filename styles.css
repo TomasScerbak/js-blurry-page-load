@@ -9,7 +9,6 @@ body {
   justify-content: center;
   align-items: center;
   line-height: 1.5;
-  font-size: 1.8rem;
   height: 100vh;
   margin: 0;
   overflow: hidden;
@@ -22,5 +21,20 @@ body {
 }
 
 .bg {
-  background: url();
+  background: url(/Images/mountain.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  filter: blur(0px);
+}
+.loading-text {
+  font-size: 3rem;
+  font-weight: bold;
+  color: white;
 }
