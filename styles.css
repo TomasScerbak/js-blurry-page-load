@@ -21,7 +21,7 @@ body {
 }
 
 .bg {
-  background: url(/Images/mountain.jpg);
+  background: url(Images/mountain.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
